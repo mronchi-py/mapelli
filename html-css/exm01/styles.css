@@ -1,0 +1,21 @@
+
+/* Selector by Element Name */
+p {
+    color: red;
+}
+
+giovanni {
+    color: yellow;
+}
+
+
+
+/* Selector by Attribute id */
+#foo {
+  color: blue;
+}
+
+/* Selector by Attribute class */
+.bar{
+  color: green;
+}
